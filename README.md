@@ -1,10 +1,10 @@
 # Customer Relationship Management
 Content type
 Fields for Name, Address, Phone, Relationship/Personal Business
-    Notes for types of interactions
-    Could be a database
-    Produces a transcript for all instances of contact
-    Could include multi-media input
+    - Notes for types of interactions
+    - Could be a database
+    - Produces a transcript for all instances of contact
+    - Could include multi-media input
 
 Create a database that hosts customer profile
 Add fields that include notes for all interactions/tickets and upload media types

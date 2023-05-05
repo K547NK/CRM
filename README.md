@@ -14,3 +14,5 @@ Serialize tickets for easy analysis and categories
 ##TODO
     1. Create a database for adding new clients/customers
 	    - Add export functionality for easy reference
+    2. Create a dictionary that would store account information in a JSON format
+        - Start noting interactions within a separate log file linked by account number
